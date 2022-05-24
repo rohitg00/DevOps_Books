@@ -6,7 +6,7 @@
 
 # Open - Source Contribution
 
-* This repository is new. If you want to contribute.
-* Help needed for Alignment of books, and Readme.m creation with proper contributing guidelines.
+* If you want to contribute, This repository is in build. Feel free to do.
+* Help needed for Alignment of books, and Readme.md creation with proper contributing guidelines.
 
 ## Thanks
