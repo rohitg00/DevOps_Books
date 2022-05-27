@@ -12,10 +12,9 @@
 * [Ansible Playbook Creds Practices](/Ansible-playbook-creds.pdf)
 * [Api Driven DevOps](/Api-driven-devops.pdf) 
 * [Application Lifecycle on AWS](/Application%20Lifecycle%20on%20AWS.pdf) 
-* [AWS CSA Ian Berry](/AWS%20CSA%20Ian%20Berry.pdf) 
 * [AWS CLI Ebook](/Aws-cli%20ebook.pdf) 
 * [Azure DevOps](/Azure%20DevOps.pdf) 
-* [Azure Fundation](/Azure%20Fundamentals.pdf) 
+* [Azure Fundamentals](/Azure%20Fundamentals.pdf) 
 
 ### B
 
