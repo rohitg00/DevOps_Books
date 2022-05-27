@@ -65,10 +65,26 @@
 
 ### O
 
-* [O'Reilly Kubernetes Up and Running](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf) 
-* []() 
-* []() 
-* []() 
+* [O'Reilly Kubernetes Up and Running](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
+
+### P
+
+* [Python for Cloud](/Python%20for%20cloud.pdf) 
+
+### S
+
+* [Security Practices EKS](/Security%20Practices%20EKS.pdf) 
+* [State of Devops 2021](/State%20of%20DevOps%202021.pdf) 
+
+### T
+
+* [Terraform](/Terraform.pdf) 
+* [TheNewStack CI CD](/TheNewStack_CI_CD.pdf) 
+* [Top 200 Questions Devops](/Top%20200%20questions%20DevOps.pdf) 
+
+### W
+
+* [Wavestone Devops](/Wavestone%20devops.pdf) 
 
 # Open - Source Contribution
 
