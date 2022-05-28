@@ -36,6 +36,9 @@
 * [Docker by Federico](/Docker%20by%20federico.pdf) 
 * [Docker QnA by Vijay](/Docker%20QnA%20vijay.pdf) 
 * [Docker Ebook](/Docker_eBook.pdf) 
+* [Dive into the Future of Infrastructure - K8s](/Dive%20into%20the%20Future%20of%20Infrastructure%20-%20K8s.pdf)
+* [DAY ONE:AMAZON WEB SERVICES](/DAY%20ONE:AMAZON%20WEB%20SERVICES.pdf)
+//* [Docker by visual - CodeOps]()
 
 ### G
 
@@ -46,6 +49,11 @@
 * [IaC Thales](/IaC%20Thales.pdf) 
 * [IaC Terraform](/IaC_Terraform.pdf) 
 * [IBM Agile Dummies](/IBM%20Agile%20Dummies.pdf)
+* [Intro to Docker and Swarm - Vikram](/Intro%20to%20Docker%20and%20Swarm%20-%20Vikram.pdf)
+
+### J
+
+* [Jenkins From Scratch](/Jenkins%20From%20Scratch.pdf)
 
 ### K
 
@@ -65,6 +73,7 @@
 ### O
 
 * [O'Reilly Kubernetes Up and Running](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
+* [O'Reilly Kubernetes Patterns](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
 
 ### P
 
