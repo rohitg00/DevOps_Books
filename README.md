@@ -37,7 +37,7 @@
 * [Docker QnA by Vijay](/Docker%20QnA%20vijay.pdf) 
 * [Docker Ebook](/Docker_eBook.pdf) 
 * [Dive into the Future of Infrastructure - K8s](/Dive%20into%20the%20Future%20of%20Infrastructure%20-%20K8s.pdf)
-* [DAY ONE:AMAZON WEB SERVICES](/DAY%20ONE:AMAZON%20WEB%20SERVICES.pdf)
+* [DAY ONE - AMAZON WEB SERVICES](/DAY_ONE_AMAZON%20WEB%20SERVICES.pdf)
 
 ### G
 
@@ -82,6 +82,7 @@
 
 * [Security Practices EKS](/Security%20Practices%20EKS.pdf) 
 * [State of Devops 2021](/State%20of%20DevOps%202021.pdf) 
+* [SWE Book by Alex Xu](https://abseil.io/resources/swe-book)
 
 ### T
 
