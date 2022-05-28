@@ -38,7 +38,6 @@
 * [Docker Ebook](/Docker_eBook.pdf) 
 * [Dive into the Future of Infrastructure - K8s](/Dive%20into%20the%20Future%20of%20Infrastructure%20-%20K8s.pdf)
 * [DAY ONE:AMAZON WEB SERVICES](/DAY%20ONE:AMAZON%20WEB%20SERVICES.pdf)
-//* [Docker by visual - CodeOps]()
 
 ### G
 
