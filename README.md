@@ -4,6 +4,20 @@
 * I don't own the rights to books, Just sharing the free resource.
 * Anyone wants to contribute, Feel free to submit Pull requests.
 
+Resources are added frequently! ⚡
+
+Enjoy!
+
+If you like this repo, be sure to ⭐ it.
+
+Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
+
+--- 
+
+Initially created by [Rohit Ghumare]() on [Twitter](https://twitter.com/ghumare64).
+
+---
+
 ## Book List
 
 ### A
