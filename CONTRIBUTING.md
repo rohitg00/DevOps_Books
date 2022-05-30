@@ -11,7 +11,7 @@ We use github to host books, to track issues as well as accept pull requests.
 ## Guidelines
 Pull requests are the best way to propose new books and propose new feature to the codebase. We actively welcome your pull requests:
 
-1. Fork the repo and create your branch from `master`.
+1. Fork the repo and create your branch from `main`.
 2. **Add One Book** per pull request.
 3. Pull request should include a short description. 
 4. Issue that pull request!
