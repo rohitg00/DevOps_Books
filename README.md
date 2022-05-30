@@ -19,7 +19,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 --- 
 
-Initially created by [Rohit Ghumare]() on [Twitter](https://twitter.com/ghumare64).
+Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](https://twitter.com/ghumare64).
 
 ---
 
