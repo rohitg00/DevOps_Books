@@ -45,6 +45,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [Container with Docker and K8s](/Container%20with%20docker%20and%20k8s.pdf) 
 * [Containers on AWS](/Containers%20on%20AWS.pdf) 
 * [Containers Dummies](/Containers-dummies.pdf) 
+* [CI/CD Project AWS](/CICD%20PROJECT%20ON%20AWS%20.pdf)
 
 ### D
 
