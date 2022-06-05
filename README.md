@@ -77,7 +77,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 ### K
 
 * [K8s Muhamad Eiemam](/K8s_muhamad_eiemam.pdf)
-* [k8s cheat sheet](/Kubernetes Cheat Sheet.pdf)
+* [k8s cheat sheet](Kubernetes Cheat Sheet.pdf)
 * [k8s for every one](/Kubernetes For Everyone.pdf)
 
 ### L
