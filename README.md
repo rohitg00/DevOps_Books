@@ -69,7 +69,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [IaC Thales](/IaC%20Thales.pdf) 
 * [IaC Terraform](/IaC_Terraform.pdf) 
 * [IBM Agile Dummies](/IBM%20Agile%20Dummies.pdf)
-* [Implementing_DevOps_on_AWS_(2017)](/Implementing_DevOps_on_AWS_(2017).PDF)
+* [Implementing DevOps on AWS (2017)](/Implementing_DevOps_on_AWS_(2017).PDF)
 * [Intro to Docker and Swarm - Vikram](/Intro%20to%20Docker%20and%20Swarm%20-%20Vikram.pdf)
 
 ### J
