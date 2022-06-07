@@ -28,6 +28,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 ### A
 
 * [Ansible Best Practices](/Ansible%20Best%20Practices.pdf) 
+* [Ansible for DevOps](/none%202.pdf)
 * [Ansible Playbook Creds Practices](/Ansible-playbook-creds.pdf)
 * [Api Driven DevOps](/Api-driven-devops.pdf) 
 * [Application Lifecycle on AWS](/Application%20Lifecycle%20on%20AWS.pdf) 
@@ -68,6 +69,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [IaC Thales](/IaC%20Thales.pdf) 
 * [IaC Terraform](/IaC_Terraform.pdf) 
 * [IBM Agile Dummies](/IBM%20Agile%20Dummies.pdf)
+* [Implementing_DevOps_on_AWS_(2017)](/Implementing_DevOps_on_AWS_(2017).PDF)
 * [Intro to Docker and Swarm - Vikram](/Intro%20to%20Docker%20and%20Swarm%20-%20Vikram.pdf)
 
 ### J
@@ -84,6 +86,8 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 
 * [Learning Docker](/Learning%20Docker.pdf) 
 * [Learning Groovy](/Learning%20Groovy.pdf) 
+* [Linux Command Line and Shell Scripting Bible by Richard Blum](/2020712201111807Richard_Blum%2C_Christine_Bresnahan.pdf)
+*  [Linux Command Line and Shell Scripting Bible by Wiley](/Wiley.Linux.Command.Line.and.Shell.Scripting.Bible.May.2008.pdf)
 * [Load Balancing in the Cloud](/Load%20balancing%20in%20th%20cloud.pdf) 
 
 ### M
