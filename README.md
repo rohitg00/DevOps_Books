@@ -102,6 +102,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 
 ### P
 
+* [Practical DevOps](/Practical%20DevOps.pdf) 
 * [Python for Cloud](/Python%20for%20cloud.pdf) 
 * [Python for DevOps - Learn Ruthlessly Effective Automation Original](/python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697.pdf)
 * [PythonNotesForProfessionals](/PythonNotesForProfessionals.pdf)
