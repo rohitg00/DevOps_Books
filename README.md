@@ -32,6 +32,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [Ansible Playbook Creds Practices](/Ansible-playbook-creds.pdf)
 * [Api Driven DevOps](/Api-driven-devops.pdf) 
 * [Application Lifecycle on AWS](/Application%20Lifecycle%20on%20AWS.pdf) 
+* [AWS Associate Solutions Architect Study - ACloud.Guru](https://media-exp1.licdn.com/dms/document/C4D1FAQFSHSI3QdObwQ/feedshare-document-pdf-analyzed/0/1660694867624?e=1661385600&v=beta&t=xL3BbO3tcwckenG6zyF0HSSjGZ-E_HHHmwy4V6SmKpw)
 * [AWS CLI Ebook](/Aws-cli%20ebook.pdf) 
 * [Azure DevOps](/Azure%20DevOps.pdf) 
 * [Azure Fundamentals](/Azure%20Fundamentals.pdf) 
