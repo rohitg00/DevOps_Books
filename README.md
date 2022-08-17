@@ -29,6 +29,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 
 * [Ansible Best Practices](/Ansible%20Best%20Practices.pdf) 
 * [Ansible for DevOps](/none%202.pdf)
+* [Ansible From Beginner to Pro](https://media-exp1.licdn.com/dms/document/C4D1FAQFeyFFmY5TGlg/feedshare-document-pdf-analyzed/0/1660694861085?e=1661385600&v=beta&t=JeYl2FzTmoW-OOi44ECWnNPB4Q0Ae5ODDH4C-ahTlqk)
 * [Ansible Playbook Creds Practices](/Ansible-playbook-creds.pdf)
 * [Api Driven DevOps](/Api-driven-devops.pdf) 
 * [Application Lifecycle on AWS](/Application%20Lifecycle%20on%20AWS.pdf) 
@@ -56,6 +57,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [Devops Document Vinay Hegde](/Devops-document-vinay_hegde.pdf) 
 * [Devops Handbook](/Devops-handbook.pdf) 
 * [Docker by Federico](/Docker%20by%20federico.pdf) 
+* [Docker Cheatsheet](https://media-exp1.licdn.com/dms/document/C4D1FAQHa9dsGbKE7mg/feedshare-document-pdf-analyzed/0/1660642662781?e=1661385600&v=beta&t=kqhcnig0jP2RBRm9HNOzyrqXs4wqjyC1IECd9LCOB-E)
 * [Docker QnA by Vijay](/Docker%20QnA%20vijay.pdf) 
 * [Docker Ebook](/Docker_eBook.pdf) 
 * [Dive into the Future of Infrastructure - K8s](/Dive%20into%20the%20Future%20of%20Infrastructure%20-%20K8s.pdf)
@@ -64,6 +66,9 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 ### G
 
 * [GIT Notes for Professionals](/GIT%20notes%20for%20professionals.pdf) 
+
+### H
+* [Helm 101: Tame the chaos of your Kubernetes apps with Helm charts](https://media-exp1.licdn.com/dms/document/C4D1FAQEvLyiTpuYr2w/feedshare-document-pdf-analyzed/0/1660668656459?e=1661385600&v=beta&t=geS4gxgn7EsIPjARpLj4l6CcLmMXIhKkth8RbcaE26c)
 
 ### I
 
@@ -100,6 +105,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 
 * [O'Reilly Kubernetes Up and Running](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
 * [O'Reilly Kubernetes Patterns](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
+* [O'Reilly Software Architecture Patterns](https://media-exp1.licdn.com/dms/document/C4D1FAQFXDNSQk3PSsA/feedshare-document-pdf-analyzed/0/1660642832168?e=1661385600&v=beta&t=LW46s1riQcdMGqRlyT04FtUYJ1PTlwXvhNtkEyAoQq8)
 
 ### P
 
