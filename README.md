@@ -116,6 +116,8 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [Python for Cloud](/Python%20for%20cloud.pdf) 
 * [Python for DevOps - Learn Ruthlessly Effective Automation Original](/python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697.pdf)
 * [PythonNotesForProfessionals](/PythonNotesForProfessionals.pdf)
+* [Practice 250 Questions For Terraform Associate Certification](https://media-exp1.licdn.com/dms/document/C4D1FAQF60GW8Wzx5Gg/feedshare-document-pdf-analyzed/0/1661091052718?e=1661990400&v=beta&t=CWQn8jnj_qPJcg8jFp-aqAk1sj3I2Dz3tc_ZcQYn4Zw)
+
 
 ### S
 
