@@ -104,6 +104,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 
 ### O
 
+* [O'Reilly An Introduction to Cloud Databases](https://media-exp1.licdn.com/dms/document/C4D1FAQGi94BbMABNLw/feedshare-document-pdf-analyzed/0/1661090973570?e=1661990400&v=beta&t=R3ZNMec8rbU67lyw1wePYcnJm2wsjHkSxfBP2_1yYbY)
 * [O'Reilly Kubernetes Up and Running](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
 * [O'Reilly Kubernetes Patterns](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
 * [O'Reilly Software Architecture Patterns](https://media-exp1.licdn.com/dms/document/C4D1FAQFXDNSQk3PSsA/feedshare-document-pdf-analyzed/0/1660642832168?e=1661385600&v=beta&t=LW46s1riQcdMGqRlyT04FtUYJ1PTlwXvhNtkEyAoQq8)
