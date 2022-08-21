@@ -93,7 +93,8 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [Learning Docker](/Learning%20Docker.pdf) 
 * [Learning Groovy](/Learning%20Groovy.pdf) 
 * [Linux Command Line and Shell Scripting Bible by Richard Blum](/2020712201111807Richard_Blum%2C_Christine_Bresnahan.pdf)
-*  [Linux Command Line and Shell Scripting Bible by Wiley](/Wiley.Linux.Command.Line.and.Shell.Scripting.Bible.May.2008.pdf)
+* [Linux Command Line and Shell Scripting Bible by Wiley](/Wiley.Linux.Command.Line.and.Shell.Scripting.Bible.May.2008.pdf)
+* [Linux Handbook](https://sourceforge.net/projects/linuxcommand/files/TLCL/19.01/TLCL-19.01.pdf/download)
 * [Load Balancing in the Cloud](/Load%20balancing%20in%20th%20cloud.pdf) 
 
 ### M
