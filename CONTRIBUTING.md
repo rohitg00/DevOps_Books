@@ -34,6 +34,11 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 
 People *love* thorough bug reports. I'm not even kidding.
 
+## Contributing
+
+We love pull requests from everyone. By participating in this project, you
+agree to abide by the [Code Of Conduct](https://github.com/rohitg00/DevOps_Books/blob/main/CODE_OF_CONDUCT.md).
+
 
 ## License
 By contributing, you agree that your contributions will be licensed under its MIT License.
