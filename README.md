@@ -56,6 +56,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [Devops in Practice](/DevOps%20in%20Pratice.pdf) 
 * [Devops Document Vinay Hegde](/Devops-document-vinay_hegde.pdf) 
 * [Devops Handbook](/Devops-handbook.pdf) 
+* [Devops Tools Guide](/Devops%20Tools%20Guide.pdf)
 * [Docker by Federico](/Docker%20by%20federico.pdf) 
 * [Docker Cheatsheet](https://media-exp1.licdn.com/dms/document/C4D1FAQHa9dsGbKE7mg/feedshare-document-pdf-analyzed/0/1660642662781?e=1661385600&v=beta&t=kqhcnig0jP2RBRm9HNOzyrqXs4wqjyC1IECd9LCOB-E)
 * [Docker Deep Dive Zero to Docker in a single book (Nigel Poulton)](https://github.com/rohitg00/DevOps_Books/blob/main/Docker%20Deep%20Dive%20Zero%20to%20Docker%20in%20a%20single%20book%20(Nigel%20Poulton)%20(z-lib.org).pdf)
