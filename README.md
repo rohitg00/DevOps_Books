@@ -136,6 +136,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [O’Reilly Kubernetes patterns for designing cloud-native apps](https://red.ht/3LeB1Vb)
 * [OpenShift_in_Action.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/OpenShift_in_Action.pdf)
 * [Orchestrating_Docker.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Orchestrating_Docker.pdf)
+* [O'Reilly Cloud Native DevOps with Kubernetes]([label](Cloud%20Native%20Devops%20with%20Kubernetes.pdf))
 
 ### P
 
