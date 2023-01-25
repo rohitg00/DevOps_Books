@@ -163,6 +163,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [Terraform](/Terraform.pdf) 
 * [Terraform CLI Cheatsheet - 1](/1622257225661.pdf)
 * [Terrafprm CLI Cheatsheet - 2](/terraform-cheatsheet-1.pdf)
+* [The Definitive Kubectl Cheatsheet](/the-definitive-kubectl-cheatsheet)
 * [The NewStack CI CD](/TheNewStack_CI_CD.pdf) 
 * [The Kubernetes Book (Nigel Poulton)](/The%20Kubernetes%20Book%20(Nigel%20Poulton)%20(z-lib.org).pdf)
 * [Top 200 Questions Devops](/Top%20200%20questions%20DevOps.pdf) 
