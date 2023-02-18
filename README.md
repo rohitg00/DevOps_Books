@@ -96,7 +96,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 ### J
 
 * [Jenkins From Scratch](/Jenkins%20From%20Scratch.pdf)
-* [Jenkins Pipeline](/JenkinsPipeline.pdf)
+* [Jenkins Pipeline](/Jenkins%30Pipeline.pdf)
 
 ### K
 
