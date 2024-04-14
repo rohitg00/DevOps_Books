@@ -60,8 +60,8 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 
 * [Deploy on AWS-Gitlab](/Deploy%20on%20AWS-Gitlab.pdf) 
 * [Devops in Practice](/DevOps%20in%20Pratice.pdf) 
-* [Devops Document Vinay Hegde](/Devops-document-vinay_hegde.pdf) 
-* [Devops Handbook](/Devops-handbook.pdf) 
+* [Devops Document Vinay Hegde](/devops-document-vinay_hegde.pdf) 
+* [Devops Handbook](/devops-handbook.pdf) 
 * [Devops Tools Guide](/Devops%20Tools%20Guide.pdf)
 * [Docker by Federico](/Docker%20by%20federico.pdf) 
 * [Docker Cheatsheet](https://media-exp1.licdn.com/dms/document/C4D1FAQHa9dsGbKE7mg/feedshare-document-pdf-analyzed/0/1660642662781?e=1661385600&v=beta&t=kqhcnig0jP2RBRm9HNOzyrqXs4wqjyC1IECd9LCOB-E)
