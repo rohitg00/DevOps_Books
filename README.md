@@ -55,6 +55,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [Containers on AWS](/Containers%20on%20AWS.pdf) 
 * [Containers Dummies](/Containers-dummies.pdf) 
 * [CI/CD Project AWS](/CICD%20PROJECT%20ON%20AWS%20.pdf)
+* [Cloud Security](/Cloud_Security_I.pdf)
 
 ### D
 
