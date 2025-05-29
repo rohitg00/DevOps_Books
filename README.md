@@ -174,3 +174,5 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [Wavestone Devops](/Wavestone%20devops.pdf) 
 
 ## Thanks
+
+<!-- GitAds-Verify: KA1YQJIFORSYEVSMHJQAQ8AXVQLKBNRU -->
