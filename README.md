@@ -7,6 +7,9 @@
 Resources are added frequently! ⚡
 
 Enjoy!
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rohitg00/devops_books@github)](https://gitads.dev/v1/ad-track?source=rohitg00/devops_books@github)
+
 
 # Open - Source Contribution
 
