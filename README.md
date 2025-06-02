@@ -77,6 +77,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [Dive into the Future of Infrastructure - K8s](/Dive%20into%20the%20Future%20of%20Infrastructure%20-%20K8s.pdf)
 * [DAY ONE - AMAZON WEB SERVICES](/DAY_ONE_AMAZON%20WEB%20SERVICES.pdf)
 * [Extending_Docker.pdf](Extending_Docker.pdf)
+* [Docker Cheet Sheet For Devops Engineers](https://github.com/ani0111/DevOps_Books/blob/ceae7f67dabe1ee83c15a4feb2d6af240c21b9eb/Docker%20Cheet%20Sheet%20For%20Devops%20Engineers%20.pdf)
 
 ### G
 
@@ -105,6 +106,7 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 * [K8s Muhamad Eiemam](/K8s_muhamad_eiemam.pdf)
 * [k8s cheat sheet](/Kubernetes%20Cheat%20Sheet.pdf)
 * [k8s for every one](/Kubernetes%20For%20Everyone.pdf)
+* [Kubernetes Tutorial](/Kubernetes%20Tutorial.pdf)
 
 ### L
 
